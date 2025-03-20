@@ -1,0 +1,14 @@
+<!--
+Nombre: Aarón Lorente Cortés
+Curso: DAM 1
+Fecha: 18/03/2025
+Ejercicio: 3
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Meto todos los atributos que se piden dentro de cada etiqueta libro que abro y cierro en la misma línea -->
+<libros>
+  <libro titulo="El problema de los tres cuerpos" autor="Liu Cixin" año="2008"/>
+  <libro titulo="La biblioteca de la medianoche" autor="Matt Haig" año="2020"/>
+  <libro titulo="Klara y el sol" autor="Kazuo Ishiguro" año="2021"/>
+</libros>
